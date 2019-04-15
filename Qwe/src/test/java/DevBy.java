@@ -175,6 +175,7 @@ public class DevBy {
         mainPage.goToNewsPage();
         headerTitleText = newsPage.getHeaderTitleText();
         System.out.println(headerTitleText);
+
         Assert.assertEquals(headerTitleText,titleText,"Title and header should be the same");
     }
 
@@ -189,14 +190,9 @@ public class DevBy {
 
     @Test
     public void typeCheck(){
-       WebElement title =  driver.findElements(By.xpath("//a[@class = 'article-preview-card__content']")).get(1);
-       String titleText = title.getText();
-       title.click();
+       String titleType =  mainPage.getTitleType();
+       mainPage.goToNewsPage();
 
-       String type = driver.findElement(By.xpath("//a[@class ='article-stat__item article-stat__item_link']")).getText();
-       String headerText = driver.findElement(By.xpath("//h1[@itemprop='headline']")).getText();
-       System.out.println(titleText);
-       System.out.println(type+"\n"+headerText);
-       Assert.assertEquals(titleText,type+"\n"+headerText,"Title and header should be the same");
+       Assert.assertEquals(titleType,newsPage.getTitleType(),"Title and header should be the same");
     }
 }

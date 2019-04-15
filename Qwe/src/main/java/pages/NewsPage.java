@@ -22,6 +22,9 @@ public class NewsPage extends BasePage {
     @FindBy(xpath ="//div[@class ='comment__content-wrapper']" )
     List<WebElement> comments;
 
+    @FindBy(css = "div[class = 'article-stat'] a")
+    WebElement titleType;
+
     public String getHeaderTitleText(){
         if (commentsMuch.getText().contentEquals("Нет комментариев")) {
             return headerTitles.getText();
@@ -29,4 +32,6 @@ public class NewsPage extends BasePage {
             return headerTitles.getText() + " " + comments.size();
         }
     }
+
+    public String getTitleType(){return titleType.getText();}
 }

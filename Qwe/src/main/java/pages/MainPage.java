@@ -43,6 +43,9 @@ public class MainPage extends BasePage {
     @FindBy(xpath =".//a[.='События']" )
     WebElement events;
 
+    @FindBy(css = "span[class = 'article-preview__label'] a")
+    List<WebElement> titleType;
+
     public void open(){
         driver.get("https://dev.by");
     }
@@ -106,8 +109,10 @@ public class MainPage extends BasePage {
     }
 
     public String getTitleText(){
-        return title.get(1).getText();
+        return title.get(0).getText();
     }
 
-    public void goToNewsPage(){title.get(1).click();}
+    public void goToNewsPage(){title.get(0).click();}
+
+    public String getTitleType(){return titleType.get(0).getText();}
 }
