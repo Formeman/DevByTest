@@ -21,9 +21,8 @@ public class Header {
     public Boolean isItemActive(String menuItemName) {
         return driver.findElement(selfWebElement)
                 .findElement(By.xpath(".//a[.='" + menuItemName + "']"))
-                .findElement(By.xpath(".."))
                 .getAttribute("class")
-                .endsWith("active");
+                .endsWith("current");
     }
 
 
