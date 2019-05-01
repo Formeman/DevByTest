@@ -165,7 +165,7 @@ public class DevBy {
                 };
         }
 
-    @Test
+    @Test()
     public void tagTest(){
         String headerTitleText;
         String titleText;
@@ -195,4 +195,6 @@ public class DevBy {
 
        Assert.assertEquals(titleType,newsPage.getTitleType(),"Title and header should be the same");
     }
+
+
 }
