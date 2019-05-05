@@ -101,8 +101,8 @@ public class DevBy {
 
     @Test(groups = {"Regression", "Login"})
     public void positiveLogin() {
-        String login = "at/1@virtual-email.com";
-        String password = "at/1@virtual-email.com";
+        String login = "antoxa.trigubovich@mail.ru";
+        String password = "123qweasdzxc";
         String messageByMaster = "Error message shouldn't be displayed";
 
         mainPage.goToLoginPage();
@@ -171,10 +171,8 @@ public class DevBy {
         String titleText;
 
         titleText = mainPage.getTitleText();
-        System.out.println(titleText);
         mainPage.goToNewsPage();
         headerTitleText = newsPage.getHeaderTitleText();
-        System.out.println(headerTitleText);
 
         Assert.assertEquals(headerTitleText,titleText,"Title and header should be the same");
     }
@@ -187,14 +185,5 @@ public class DevBy {
         Assert.assertTrue(eventsPage.getPopUpDisplayed(),"Pop up should be displayed");
         Assert.assertEquals(eventsPage.getPopUpText(),"Иду! =)", "Message in pop up should be");
     }
-
-    @Test
-    public void typeCheck(){
-       String titleType =  mainPage.getTitleType();
-       mainPage.goToNewsPage();
-
-       Assert.assertEquals(titleType,newsPage.getTitleType(),"Title and header should be the same");
-    }
-
 
 }

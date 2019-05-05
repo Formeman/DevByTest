@@ -13,7 +13,7 @@ public class VacancyPage extends BasePage {
         PageFactory.initElements(driver, this);
     }
 
-    private By header = By.xpath("//div[@class = 'header-global__header-nav-content']");//div[@class = 'header__navigation']
+    private By header = By.xpath("//div[@class = 'header-global__header-nav-content']");
     private Header desktopHeader = new Header(header);
 
     public String getHeaderItemColour(String menuItemName) {

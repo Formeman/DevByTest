@@ -22,7 +22,19 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/DevBy.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="471">
-              <caret line="195" column="100" selection-start-line="195" selection-start-column="100" selection-end-line="195" selection-end-column="100" />
+              <caret line="184" column="48" selection-start-line="184" selection-start-column="48" selection-end-line="184" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pages/EventsPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="17" column="52" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,7 +45,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/driverSingleton/WebDriverSingleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-333">
+            <state relative-caret-position="85">
               <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -45,8 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/NewsPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+            <state relative-caret-position="459">
+              <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,14 +69,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/VacancyPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            <state relative-caret-position="306">
+              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#545#546#0" expanded="true" />
-                <element signature="e#605#606#0" expanded="true" />
-                <element signature="e#667#668#0" expanded="true" />
-                <element signature="e#730#731#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -82,7 +90,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/LoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
+            <state relative-caret-position="340">
               <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -94,12 +102,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1768">
-              <caret line="114" column="42" selection-start-line="114" selection-start-column="42" selection-end-line="114" selection-end-column="42" />
+            <state relative-caret-position="1615">
+              <caret line="114" column="36" selection-start-line="114" selection-start-column="36" selection-end-line="114" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1425#1426#0" expanded="true" />
                 <element signature="e#1457#1458#0" expanded="true" />
+                <element signature="e#2905#2906#0" expanded="true" />
+                <element signature="e#2950#2951#0" expanded="true" />
                 <marker date="1555331992005" expanded="true" signature="419:901" ph="..." />
               </folding>
             </state>
@@ -118,8 +128,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/elements/Header.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="340">
+              <caret line="24" column="34" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#283#284#0" expanded="true" />
@@ -205,13 +215,13 @@
         <option value="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/BasePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/Features/devByTest.feature" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/VacancyPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/EventsPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/NewsPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/MainPage.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/elements/Header.java" />
         <option value="$PROJECT_DIR$/src/test/java/йц.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/VacancyPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/DevBy.java" />
       </list>
     </option>
@@ -224,10 +234,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="y" value="-7" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
     <option name="width" value="1040" />
-    <option name="height" value="737" />
+    <option name="height" value="740" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -236,7 +246,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -295,6 +304,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -328,7 +338,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.DevBy.typeCheck">
+  <component name="RunManager" selected="TestNG.DevBy.popUpCheck">
     <configuration name="DevBy" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Qwe" />
       <option name="PACKAGE_NAME" value="" />
@@ -340,11 +350,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DevBy.iSoftTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DevBy.popUpCheck" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Qwe" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="DevBy" />
-      <option name="METHOD_NAME" value="iSoftTest" />
+      <option name="METHOD_NAME" value="popUpCheck" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -352,11 +362,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DevBy.popUpCheck" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DevBy.positiveLogin" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Qwe" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="DevBy" />
-      <option name="METHOD_NAME" value="popUpCheck" />
+      <option name="METHOD_NAME" value="positiveLogin" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -389,19 +399,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.DevBy.iSoftTest" />
+      <item itemvalue="TestNG.DevBy" />
       <item itemvalue="TestNG.DevBy.popUpCheck" />
+      <item itemvalue="TestNG.DevBy.positiveLogin" />
       <item itemvalue="TestNG.DevBy.tagTest" />
       <item itemvalue="TestNG.DevBy.typeCheck" />
-      <item itemvalue="TestNG.DevBy" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.DevBy.typeCheck" />
-        <item itemvalue="TestNG.DevBy.tagTest" />
-        <item itemvalue="TestNG.DevBy" />
-        <item itemvalue="TestNG.DevBy.iSoftTest" />
         <item itemvalue="TestNG.DevBy.popUpCheck" />
+        <item itemvalue="TestNG.DevBy.tagTest" />
+        <item itemvalue="TestNG.DevBy.positiveLogin" />
+        <item itemvalue="TestNG.DevBy.typeCheck" />
+        <item itemvalue="TestNG.DevBy" />
       </list>
     </recent_temporary>
   </component>
@@ -419,18 +429,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DevBy_typeCheck - 2019.04.15 at 15h 39m 29s.xml">
-      <configuration name="DevBy.typeCheck" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DevBy_typeCheck - 2019.04.15 at 15h 40m 31s.xml">
-      <configuration name="DevBy.typeCheck" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DevBy_iSoftTest - 2019.04.17 at 13h 55m 29s.xml">
-      <configuration name="DevBy.iSoftTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DevBy_iSoftTest - 2019.04.17 at 13h 59m 05s.xml">
-      <configuration name="DevBy.iSoftTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="DevBy_iSoftTest - 2019.04.17 at 15h 38m 44s.xml">
       <configuration name="DevBy.iSoftTest" configurationId="TestNG" />
     </history-entry>
@@ -449,6 +447,18 @@
     <history-entry file="DevBy_typeCheck - 2019.04.30 at 14h 36m 59s.xml">
       <configuration name="DevBy.typeCheck" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="DevBy_positiveLogin - 2019.05.03 at 15h 46m 08s.xml">
+      <configuration name="DevBy.positiveLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DevBy_tagTest - 2019.05.03 at 16h 00m 35s.xml">
+      <configuration name="DevBy.tagTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DevBy_popUpCheck - 2019.05.03 at 16h 23m 53s.xml">
+      <configuration name="DevBy.popUpCheck" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DevBy_popUpCheck - 2019.05.05 at 15h 37m 05s.xml">
+      <configuration name="DevBy.popUpCheck" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -461,9 +471,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14496644" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15100671" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -491,7 +500,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.15369128" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14697987" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -500,13 +509,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798658" visible="true" weight="0.42776203" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49731544" weight="0.42776203" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4986577" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5013423" side_tool="true" weight="0.32719547" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5026846" side_tool="true" weight="0.42776203" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49597314" weight="0.32719547" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -827,13 +836,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/WebDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="110" column="13" selection-start-line="110" selection-start-column="13" selection-end-line="110" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -841,10 +843,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/йц.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/WebDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="110" column="13" selection-start-line="110" selection-start-column="13" selection-end-line="110" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DevBy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="184" column="48" selection-start-line="184" selection-start-column="48" selection-end-line="184" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/EventsPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        <state relative-caret-position="221">
+          <caret line="17" column="52" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/driverSingleton/WebDriverSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -853,8 +883,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/NewsPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        <state relative-caret-position="459">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -863,14 +893,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/VacancyPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="306">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#545#546#0" expanded="true" />
-            <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#667#668#0" expanded="true" />
-            <element signature="e#730#731#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -884,7 +910,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
+        <state relative-caret-position="340">
           <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -894,12 +920,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/MainPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1768">
-          <caret line="114" column="42" selection-start-line="114" selection-start-column="42" selection-end-line="114" selection-end-column="42" />
+        <state relative-caret-position="1615">
+          <caret line="114" column="36" selection-start-line="114" selection-start-column="36" selection-end-line="114" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1425#1426#0" expanded="true" />
             <element signature="e#1457#1458#0" expanded="true" />
+            <element signature="e#2905#2906#0" expanded="true" />
+            <element signature="e#2950#2951#0" expanded="true" />
             <marker date="1555331992005" expanded="true" signature="419:901" ph="..." />
           </folding>
         </state>
@@ -914,42 +942,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/elements/Header.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="340">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#283#284#0" expanded="true" />
             <element signature="e#335#336#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/йц.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="6" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/driverSingleton/WebDriverSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-333">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DevBy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="195" column="100" selection-start-line="195" selection-start-column="100" selection-end-line="195" selection-end-column="100" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
