@@ -16,10 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SelenideDevByTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SelenideDevByTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="124" column="84" selection-start-line="124" selection-start-column="84" selection-end-line="124" selection-end-column="84" />
+            <state relative-caret-position="1163">
+              <caret line="125" column="39" lean-forward="true" selection-start-line="125" selection-start-column="39" selection-end-line="125" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -32,45 +32,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
               <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Pages/BasePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Pages/LoginPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Pages/MainPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Pages/VacancyPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -96,17 +57,19 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Str</find>
+      <find>//</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Pages/VacancyPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/Pages/MainPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/SelenideDevByPageObject.java" />
         <option value="$PROJECT_DIR$/src/main/java/Pages/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/SelenideDevByTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/SelenideDevByTest.java" />
       </list>
     </option>
   </component>
@@ -128,6 +91,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,21 +121,26 @@
               <item name="SelenideProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="SelenideProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555505065290" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -185,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.SelenideDevByTest">
+  <component name="RunManager" selected="TestNG.SelenideDevByTest.search">
     <configuration name="SelenideDevByTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SelenideProject" />
       <option name="PACKAGE_NAME" value="" />
@@ -221,11 +190,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelenideDevByTest.tagTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SelenideDevByTest.search" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SelenideProject" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SelenideDevByTest" />
-      <option name="METHOD_NAME" value="tagTest" />
+      <option name="METHOD_NAME" value="search" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -247,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SelenideDevByTest" />
+        <item itemvalue="TestNG.SelenideDevByTest.search" />
         <item itemvalue="TestNG.SelenideDevByTest.popUpCheck" />
+        <item itemvalue="TestNG.SelenideDevByTest" />
         <item itemvalue="TestNG.SelenideDevByTest.typeCheck" />
         <item itemvalue="TestNG.SelenideDevByTest.negativeLogin_DataProvider" />
-        <item itemvalue="TestNG.SelenideDevByTest.tagTest" />
       </list>
     </recent_temporary>
   </component>
@@ -269,24 +238,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SelenideDevByTest_popUpCheck - 2019.05.03 at 16h 58m 47s.xml">
-      <configuration name="SelenideDevByTest.popUpCheck" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SelenideDevByTest_popUpCheck - 2019.05.03 at 16h 59m 18s.xml">
-      <configuration name="SelenideDevByTest.popUpCheck" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SelenideDevByTest_popUpCheck - 2019.05.03 at 16h 59m 53s.xml">
-      <configuration name="SelenideDevByTest.popUpCheck" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SelenideDevByTest_popUpCheck - 2019.05.03 at 17h 00m 38s.xml">
-      <configuration name="SelenideDevByTest.popUpCheck" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SelenideDevByTest - 2019.05.05 at 15h 28m 06s.xml">
-      <configuration name="SelenideDevByTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SelenideDevByTest_negativeLogin_DataProvider - 2019.05.05 at 15h 29m 06s.xml">
-      <configuration name="SelenideDevByTest.negativeLogin_DataProvider" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="SelenideDevByTest_typeCheck - 2019.05.05 at 15h 30m 18s.xml">
       <configuration name="SelenideDevByTest.typeCheck" configurationId="TestNG" />
     </history-entry>
@@ -299,11 +250,29 @@
     <history-entry file="SelenideDevByTest - 2019.05.05 at 15h 41m 05s.xml">
       <configuration name="SelenideDevByTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="SelenideDevByTest_popUpCheck - 2019.05.26 at 17h 49m 30s.xml">
+      <configuration name="SelenideDevByTest.popUpCheck" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SelenideDevByTest_popUpCheck - 2019.05.26 at 17h 57m 13s.xml">
+      <configuration name="SelenideDevByTest.popUpCheck" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SelenideDevByTest_popUpCheck - 2019.05.26 at 17h 58m 45s.xml">
+      <configuration name="SelenideDevByTest.popUpCheck" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SelenideDevByTest_popUpCheck - 2019.05.26 at 17h 59m 18s.xml">
+      <configuration name="SelenideDevByTest.popUpCheck" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SelenideDevByTest_search - 2019.05.26 at 18h 41m 36s.xml">
+      <configuration name="SelenideDevByTest.search" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SelenideDevByTest_search - 2019.05.26 at 18h 43m 13s.xml">
+      <configuration name="SelenideDevByTest.search" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15570469" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16174497" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -395,33 +364,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SelenideDevByTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="124" column="84" selection-start-line="124" selection-start-column="84" selection-end-line="124" selection-end-column="84" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SelenideDevByPageObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SelenideDevByPageObject.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Pages/BasePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -460,5 +403,95 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SelenideDevByTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1163">
+          <caret line="125" column="39" lean-forward="true" selection-start-line="125" selection-start-column="39" selection-end-line="125" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SelenideProject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
