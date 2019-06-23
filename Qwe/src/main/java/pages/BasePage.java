@@ -5,7 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
 public class BasePage {
-    WebDriver driver = WebDriverSingleton.create();
+    protected WebDriver driver = WebDriverSingleton.create();
 
     public boolean isMobileView() {
         String className = driver.findElement(By.tagName("html")).getAttribute("class");
