@@ -4,12 +4,12 @@
   <parameter name="browser" value="FF"/>
   <test name="Qwe">
     <classes>
-      <class name="Gosha">
+      <class name="DevBy">
         <!--<methods>-->
           <!--<include name="getNegativeLoginMessage"/>-->
           <!--<include name="getPositiveLoginMessage"/>-->
         <!--</methods>-->
-      </class> <!-- Gosha -->
+      </class> <!-- DevBy -->
     </classes>
   </test> <!-- Qwe -->
 </suite> <!-- Default Suite -->
